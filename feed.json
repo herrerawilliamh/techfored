@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "techfored",
+    "description": "",
+    "home_page_url": "https://herrerawilliamh.github.io/techfored",
+    "feed_url": "https://herrerawilliamh.github.io/techfored/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "William Humberto Herrera Rey"
+    },
+    "items": [
+    ]
+}

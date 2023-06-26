@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://herrerawilliamh.github.io/techfored/sitemap.xml
